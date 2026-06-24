@@ -29,6 +29,11 @@
         "expirydate": "01-01-2027",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "518b9ea25a04b401",
+        "key": "Abdul_Jabbar_game_key",
+        "expirydate": "02-03-2027",
+        "Allowoffline": false
+    },
 
 ]
